@@ -1,0 +1,17 @@
+@import '../scripts/dailyPhoto/daily.css';
+
+body {
+    background-color: rgb(58, 58, 58);
+}
+
+.nasaLogo {
+    width: 100px;
+    border-radius: 15px;
+}
+
+.title {
+    color: goldenrod;
+    background-color: black;
+    width: 90px;
+    margin: 10px;
+}

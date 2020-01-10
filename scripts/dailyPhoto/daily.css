@@ -1,0 +1,36 @@
+.photoStyle {
+    border: double;
+    padding: 50px;
+    width: 1250px;
+}
+
+.picss {
+    width: 500px;
+    box-shadow: 5px 10px;
+    margin: 30px
+}
+
+.hdpicss {
+    width: 500px;
+    box-shadow: 5px 10px;
+    margin: 30px
+}
+
+.dateLook {
+    color: goldenrod;
+    background-color: black;
+    width: 160px;
+    border-radius: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 5px;
+}
+
+.ex {
+    width: 1000px;
+    font-family: monospace;
+    color: whitesmoke;
+}
+
+.info {
+    color: rgb(168, 168, 168);
+}
